@@ -1,0 +1,27 @@
+{
+  "name": "Malink — Secure Agent Workspace",
+  "short_name": "Malink",
+  "description": "Talk to your coding agents securely from every device.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f9f9fc",
+  "theme_color": "#191b2c",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Conversations",
+      "short_name": "Chats",
+      "url": "./"
+    }
+  ]
+}
